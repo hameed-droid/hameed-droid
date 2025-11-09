@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @hameed-droid
 - 💻 I have experience in C++, C#, Java, Python, Javascript, Kotlin, Dart, HTML, CSS, Tailwind, Bootstrap and few more.
 - 👀 I’m interested in Web Development and Artificial Intelligence
-- 🌱 I’m currently working as a freelancer
-- 💞️ I’m looking to collaborate on future projects
+- 💞️ I’m looking to collaborate on AI projects
 - 🎸 I like to play guitar
 - 🏋️ I sometimes go to gym
 - 🏓 I am also a good table tennis player
